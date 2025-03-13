@@ -6,6 +6,10 @@ python -m venv venv
 .\venv\Scripts\Activate
 pip install django
 django-admin statproject project .
+python manage.py startapp contact
+
+
+'''
 
 Configurar o git
 
